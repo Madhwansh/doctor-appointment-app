@@ -2,12 +2,6 @@
 
 Mobile application project created with Expo, React Native, Firebase and some wonderful libraries for React Native application.
 
-## Table of Contents
-
-- [General Info](#general-info)
-- [Main Features](#main-features)
-- [Technologies](#technologies)
-- [Quick Start](#quick-start)
 
 ## General Info
 
@@ -50,24 +44,4 @@ This Doctor Mobile application allows customers to create their account for heal
 - Firebase Authentication V8
 - Firebase Realtime Database
 
-## Quick Start
 
-Here are some steps to run this project:
-
-1. Clone the project
-
-```
-git@github.com:AnhCaooo/App-Doctor.git
-```
-
-2. Download node_modules
-
-```
-npm install
-```
-
-3. Run Expo
-
-```
-expo start
-```
